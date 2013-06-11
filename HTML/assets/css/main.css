@@ -41,7 +41,7 @@
 
 body {
   position:relative;
-  background:#fff;
+  background:#FBFCFC;
   font:100%/1  'Conv_Adobe - HelveticaNeueLTStd-UltLt', sans-serif;
   color:#333
 }
@@ -426,7 +426,6 @@ input.inp-error, textarea.inp-error {
   overflow:hidden;
   width:200px;
   height:200px;
-  background:#333;
   border:3px solid #fff;
   -webkit-border-radius:50%;
   border-radius:50%;
@@ -563,5 +562,3 @@ input.inp-error, textarea.inp-error {
     .slideshow .cycle-prev, .slideshow .cycle-next{position:static}
     .testimonials .photo{float:none;margin:0 auto 15px}
 }
-
-.photo, .photo img, .btn, .btn-2, .filter li, .skill, .skill .progress, .date, .tools li, .testimonials .item, .testimonials .author, .contacts .inner, .social-nav a, .message{behavior:url("assets/js/PIE.htc")}
