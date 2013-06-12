@@ -5,7 +5,7 @@
 	$email = $_POST['email'];
 	$message = $_POST['message'];
 	 
-	$to = "mail@alexilin.ru"; // Change the recipient email address to your address.
+	$to = "jordansaxe15@gmail.com"; // Change the recipient email address to your address.
 	$subject = "Mail from your site";
 	$headers = "From: $email\r\nReply-To: $email\r\nReturn-Path: $email\r\n";
 	$message = "From: " . $name . "\r\nEmail: " . $email . "\r\nMessage: " . $message;
