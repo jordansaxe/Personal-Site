@@ -227,10 +227,16 @@ input.inp-error, textarea.inp-error {
   background:#333;
   color:#fff
 }
-    
+
     .cont-b a {
-      color:#fff
+      color:#333
     }
+
+    .cont-b a:link {
+      text-decoration: none;
+    }
+
+
     
     .cont-b .btn-2 {
       color: #33689B;
